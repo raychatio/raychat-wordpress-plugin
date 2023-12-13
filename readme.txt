@@ -1,4 +1,6 @@
-Raychat Website : https://raychat.io
-Raychat Admin panel : https://raychat.io/admin
-Raychat Web application : https://app.raychat.io
-
+Raychat
+Raychat Admin panel : https://raychat.io/dashboard
+Raychat Web application : https://webapp.raychat.io/
+Tags: raychat , chat, livechat
+Version: 2.0.1
+Tested up to: 6.4.2
